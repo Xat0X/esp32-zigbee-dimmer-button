@@ -8,7 +8,7 @@ Control your lights using physical buttons or through the web UI from any device
 
 ## Features
 
--   **Dual-Channel Control:** Independently control two separate LED channels.
+-   **Dual-Channel Control:** Independently control two separate zigbee/mqtt channels.
 -   **Web Interface:** A beautiful, mobile-friendly web UI to control the lights and configure all device settings.
 -   **Physical Button Control:**
     -   1x Click: Toggle On/Off

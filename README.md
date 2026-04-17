@@ -1,5 +1,3 @@
-# esp32-zigbee-dimmer-button
-
 # ESP32 Dual-Channel Wi-Fi Dimmer
 
 This project transforms an ESP32 into a powerful, feature-rich, dual-channel smart dimmer for LED lights. It provides a responsive web interface for control and configuration, and integrates seamlessly with smart home systems via MQTT, including support for Home Assistant discovery.
